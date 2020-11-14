@@ -1,7 +1,11 @@
 # 0049-Ottoklauss
 
 Proyecto CRUD con Vue, Vuex, Router y Firebase. Para ver el proyecto en producción siga el siguiente [enlace](https://ottoklauss-5927c.web.app/)
- 
+
+## Crecenciales de prueba
+user: usuario_de_prueba@test.org
+pass: testtest
+
 ## Project setup
 ```
 npm install
