@@ -1,5 +1,7 @@
-# 0049-ottoklauss
+# 0049-Ottoklauss
 
+Proyecto CRUD con Vue, Vuex, Router y Firebase. Para ver el proyecto en producción siga el siguiente [enlace](https://ottoklauss-5927c.web.app/)
+ 
 ## Project setup
 ```
 npm install
@@ -20,5 +22,11 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Imágenes referenciales
+
+Interfáz de inicio de sesión:
+![alt text](readme/login.png "Formulario de login")
+
+Formulario para crear/editar
+![alt text](readme/crud.png "Formulario crud")
+
