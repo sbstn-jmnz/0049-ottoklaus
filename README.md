@@ -4,6 +4,7 @@ Proyecto CRUD con Vue, Vuex, Router y Firebase. Para ver el proyecto en producci
 
 ## Crecenciales de prueba
 user: usuario_de_prueba@test.org
+
 pass: testtest
 
 ## Project setup
